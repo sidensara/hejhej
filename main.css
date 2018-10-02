@@ -1,0 +1,65 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+  background-color: #E9F3EF;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+  font-weight: lighter;
+  font-size: 45px;
+  letter-spacing: 20px;
+  margin-bottom: 5px;
+  color: #71847D;
+}
+
+p {
+  font-weight: lighter;
+  font-size: 15px;
+  letter-spacing: 2px;
+  margin-top: 6px;
+  margin-bottom: 10px;
+}
+
+img {
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.inputSection {
+  margin: 30px 0px 30px 0px;
+  width: 285px;
+}
+
+.inputs {
+  width: inherit;
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin-top: 10px;
+}
+
+.addOption {
+  margin-top: 10px;
+  background-color: #71847D;
+  border: #71847D;
+  border-radius: 3px;
+}
+
+.goOption {
+  background-color: #71847D;
+  border: #71847D;
+  border-radius: 3px;
+}
+
+footer {
+  font-weight: lighter;
+  font-size: 9px;
+  font-style: italic;
+  margin-top: 4px
+}
