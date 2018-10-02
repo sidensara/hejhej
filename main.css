@@ -40,8 +40,9 @@ margin-bottom: 20px;
   flex-direction: column;
 }
 
-input {
+input, button {
   margin-top: 10px;
+  font-family: 'Quicksand', sans-serif;
 }
 
 .addOption {
